@@ -78,7 +78,8 @@ UI/UX Design, Agile Development, Pair Programming
 
 ## 📈 GitHub Stats
 
-![Gabriella's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriella-mitchell&show_icons=true)
+![Gabriella's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabimitchell4&show_icons=true&theme=radical)
+
 
 ---
 

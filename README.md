@@ -67,6 +67,9 @@ UI/UX Design, Agile Development, Pair Programming
 ---
 
 ## 🛠️ Projects
+### **Eduflex** *(October 2023)* 
+- Achieved first place in the inaugural Northeastern AI Hackathon among 40 other teams from the Boston area
+- Led the product design of an innovative education platform to enhance the quality of free learning resources
 
 ### **Othello Game** *(November 2023)*  
 - Built an Othello game using Java and MVC architecture.  

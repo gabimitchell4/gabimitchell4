@@ -67,13 +67,18 @@ UI/UX Design, Agile Development, Pair Programming
 ---
 
 ## 🛠️ Projects
+
+### **Othello Game** *(November 2023)*  
+- Built an Othello game using Java and MVC architecture.
+  
 ### **Eduflex** *(October 2023)* 
 - Achieved first place in the inaugural Northeastern AI Hackathon among 40 other teams from the Boston area
 - Led the product design of an innovative education platform to enhance the quality of free learning resources
 
-### **Othello Game** *(November 2023)*  
-- Built an Othello game using Java and MVC architecture.  
-
+### **Tavily** *(October 2023)* 
+- Led the redesign of Tavity.com, enhancing user experience and modernizing the interface to improve engagement and usability.
+- Collaborated directly with the CEO to align the website’s design and functionality with the company’s vision and business goals.
+  
 ### **Online Bullet Journal** *(July 2020)*  
 - Designed and developed a functional digital journal using HTML, CSS, and JavaScript.  
 

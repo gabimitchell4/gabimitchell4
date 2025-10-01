@@ -30,7 +30,7 @@ UI/UX Design, Agile Development, Pair Programming
 - **Northeastern University**, Boston, MA  
   BS in Computer Science and Design (Expected: May 2026)  
   **Awards:** Dean’s Scholarship, Dean’s List (2022, 2023, 2024)  
-  **GPA:** 3.97/4.0  
+  **GPA:** 3.98/4.0  
 
 - **Relevant Coursework:**  
   Fundamentals of Computer Science, Machine Learning, Data Structures, Object-Oriented Design, Data Science  

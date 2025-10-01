@@ -76,7 +76,7 @@ UI/UX Design, Agile Development, Pair Programming
 - Led the product design of an innovative education platform to enhance the quality of free learning resources
 
 ### **Tavily** *(October 2023)* 
-- Led the redesign of Tavity.com, enhancing user experience and modernizing the interface to improve engagement and usability.
+- Led the redesign of Tavily.com, enhancing user experience and modernizing the interface to improve engagement and usability.
 - Collaborated directly with the CEO to align the website’s design and functionality with the company’s vision and business goals.
   
 ### **Online Bullet Journal** *(July 2020)*  
